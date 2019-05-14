@@ -1,4 +1,4 @@
-// mka pointers4.cpp
+// mka pointers3.cpp
 
 #include <iostream>
 using namespace std;
