@@ -1,4 +1,4 @@
-// cbe0.cpp
+// cbe.cpp
 // g++ cbe0.cpp -o nameofobjectcode.o
 // coefficient base exponent
 #include <iostream>
